@@ -148,6 +148,7 @@
   text-align: center;
   width: 60%;
   margin: 0px;
+  padding-top: 20px;
 }
 
 .table {
@@ -169,8 +170,8 @@
   font-size: 24px;
   font-weight: bold;
   margin: 0;
-  padding-bottom: 20px;
-}
+  }
+
 
 .table__text {
   line-height: 1.2;
@@ -238,9 +239,6 @@
   color: white;
   position: relative;
   z-index: 1;
-}
-
-.section-title {
   line-height: 1.15;
   font-size: 60px;
   font-weight: bold;
@@ -291,21 +289,6 @@
   margin-right: 0;
   margin-top: 80px;
   z-index: 2;
-}
-
-.table__heading {
-  padding-top: 20px;
-  line-height: 1.15;
-  font-size: 24px;
-  font-weight: bold;
-}
-
-
-
-.table__text {
-  line-height: 1.2;
-  font-size: 18px;
-  font-weight: normal;
 }
 
 .footer {

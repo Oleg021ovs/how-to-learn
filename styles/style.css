@@ -139,6 +139,7 @@
   font-weight: bold;
   width: 60%;
   margin: 0px;
+  padding-top: 100px;
 }
 
 .section-subtitle {
@@ -148,7 +149,7 @@
   text-align: center;
   width: 60%;
   margin: 0px;
-  padding-top: 20px;
+  padding-top: 40px;
 }
 
 .table {

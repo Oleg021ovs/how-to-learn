@@ -3,9 +3,7 @@
   font-size: 18px;
   font-weight: normal;
   text-align: center;
-  margin: 0;
-}
-
-.cards__description:nth-child(1n) {
   margin-top: 16px;
 }
+
+

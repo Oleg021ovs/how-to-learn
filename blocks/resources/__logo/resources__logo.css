@@ -1,10 +1,5 @@
 .resources__logo {
   width: 270px;
   height: 38px;
-  transition: all .5s;
 }
 
-.resources__logo:hover {
-  transform: scale(1.05);
-  margin-right: 20px;
-}

@@ -5,12 +5,10 @@
   text-decoration: none;
   color: #2f80ed;
   cursor: pointer;
-  transition: all .5s;
-
+  opacity: 1;
+  transition: 0.7s linear;
 }
 
 .khan__buy-link:hover {
-  transform: scale(1);
-  color: #b5cbe7;
-  margin-left: 10px;
+  opacity: .5;
 }

@@ -16,7 +16,6 @@
 @import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
 @import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css);
 @import url(../blocks/techniques/techniques.css);
-@import url(../blocks/sectiot-title/section-title.css);
 @import url(../blocks/section-subtitle/section-subtitle.css);
 @import url(../blocks/cards/cards.css);
 @import url(../blocks/cards/__item/cards__item.css);
@@ -65,7 +64,7 @@
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
 @import url(../blocks/footer/__column/_content/footer__column_content_copyright.css);
-@import url(../blocks/footer/_place_footer/logo_place_footer.css);
+@import url(../blocks/logo/_place/logo_place_footer.css);
 @import url(../blocks/footer/__author/footer__author.css);
 @import url(../blocks/footer/__column/_content/footer__column_content_info.css);
 @import url(../blocks/footer/__column-links/footer__column-links.css);
